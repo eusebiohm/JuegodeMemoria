@@ -1,5 +1,5 @@
 //: Playground - noun: a place where people can play
-
+// version 5 feb 2016 4:50
 import UIKit
 
 var numeros = 0...100
@@ -19,10 +19,10 @@ for n in numeros {
                     
                     print("\(n)  par !!!")}
                 else {
-                    if (n % 1 == 0) {
+                    
                         
                         print("\(n)  impar !!!")}
                     
                 }
-            }      }
+            }      
 }
